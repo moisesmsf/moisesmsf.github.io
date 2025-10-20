@@ -19,4 +19,4 @@ jobs:
         with:
           path: '.'
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-v4@pages
+        uses: actions/deploy-pages@v4
